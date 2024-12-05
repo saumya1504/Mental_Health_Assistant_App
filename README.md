@@ -6,11 +6,11 @@
   2 work_hours: 4–13
   Higher work hours (e.g., 10+) can cause stress and reduce happiness.
   
-  3. Social_interactions: 0–5
+3. Social_interactions: 0–5
   Fewer interactions (e.g., 0–1) can indicate loneliness and often correlate with Sad.
   3+ interactions contribute to Neutral or Happy.
   
-  4. stress_level: 0–5
+4. stress_level: 0–5
   0–1 → Happy
   4–5 → Sad
   
